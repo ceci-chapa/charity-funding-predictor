@@ -1,1 +1,1 @@
-# charity-funding-predictor
+# Charity Funding Predictor
