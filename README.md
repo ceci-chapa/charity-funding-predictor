@@ -15,7 +15,7 @@ The Is_Successful variable from the dataset was used as the target for the model
 The following variables from the dataset were used as the features: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
 
 #### What variable(s) are neither targets nor features, and should be removed from the input data?
-After further analyzing the dataset, I believe STATUS, and SPECIAL_CONSIDERATIONS features could be removed. Compared to the rest the rest of the other features, these two only had two unique values while the others contained four or more values. These two features would also not be considered the target since our target to determine success would be the Is_Successful variable. 
+After further analyzing the dataset, I believe STATUS, and SPECIAL_CONSIDERATIONS features could be removed. Compared to the rest of the other features, these two only had two unique values while the others contained four or more values. These two features would also not be considered the target since our target to determine success would be the Is_Successful variable. 
 
 
 ## Compiling, Training, and Evaluating the Model
