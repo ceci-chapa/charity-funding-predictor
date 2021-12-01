@@ -29,5 +29,5 @@ Unfortunately, the model underperformed with an accuracy below 75%.
 #### What steps did you take to try and increase model performance?
 Some of the steps to try and improve the performance was to increase and decrease the epochs. After noticing that there wasn’t a difference, the next step was to remove unnecessary features from the dataset. Removing the features did not improve the performance so I decided to adjust the CLASSIFICATION binning and did not notice a significant change. 
 
-#### Summary
+## Summary
 Overall, the model reached an accuracy of 72% with a loss of about 56%. I would recommend optimizing the model further by including the NAME feature to see if the accuracy would change. If the accuracy cannot be reached, I would also suggest trying a simpler model like Radom Forest to see if the results will improve. 
