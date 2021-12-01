@@ -4,8 +4,6 @@
 
 The purpose of this analysis is to help the non-profit foundation Alphabet Soup determine if applicants will be successful by creating an algorithm that can help predict the outcome. 
 
----
-
 ## Data Preprocessing
 
 #### What variable(s) are considered the target(s) for your model?
